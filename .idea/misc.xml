@@ -7,6 +7,9 @@
         <entry key="p0051layoutfiles/src/main/res/layout-land/myscreen.xml" value="0.34375" />
         <entry key="p0051layoutfiles/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0051layoutfiles/src/main/res/layout/myscreen.xml" value="0.34270833333333334" />
+        <entry key="p0061layouts/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0061layouts/src/main/res/layout/rlayout.xml" value="0.18958333333333333" />
+        <entry key="p0061layouts/src/main/res/layout/tlayout.xml" value="0.34270833333333334" />
         <entry key="p0180constraintlayoutinto/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>

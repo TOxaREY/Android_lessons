@@ -8,8 +8,16 @@
         <entry key="p0051layoutfiles/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0051layoutfiles/src/main/res/layout/myscreen.xml" value="0.34270833333333334" />
         <entry key="p0061layouts/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
-        <entry key="p0061layouts/src/main/res/layout/rlayout.xml" value="0.18958333333333333" />
+        <entry key="p0061layouts/src/main/res/layout/alayout.xml" value="0.34270833333333334" />
+        <entry key="p0061layouts/src/main/res/layout/rlayout.xml" value="0.33" />
         <entry key="p0061layouts/src/main/res/layout/tlayout.xml" value="0.34270833333333334" />
+        <entry key="p0072layoutprop/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0072layoutprop/src/main/res/layout/marginlayout.xml" value="0.34270833333333334" />
+        <entry key="p0081viewbyld/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0091onclickbuttons/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0101listener/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0102activitylistener/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0111resvalues/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="p0180constraintlayoutinto/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>

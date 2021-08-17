@@ -19,7 +19,17 @@
         <entry key="p0102activitylistener/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0111resvalues/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="p0121logandmess/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0141menuadv/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="p0141menuadv/src/main/res/menu/mymenu.xml" value="0.18958333333333333" />
+        <entry key="p0151contextmenu/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="p0161dynamiclayout/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0171dynamiclayout2/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="p0180constraintlayoutinto/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="p0181dynamiclayout3/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0191simplecalculator/src/main/res/layout/activity_main.xml" value="0.18958333333333333" />
+        <entry key="p0201simpleanimation/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0211twoactivity/src/main/res/layout/activity_two.xml" value="0.34270833333333334" />
       </map>
     </option>
   </component>

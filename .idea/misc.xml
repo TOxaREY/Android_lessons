@@ -30,6 +30,21 @@
         <entry key="p0201simpleanimation/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0211twoactivity/src/main/res/layout/activity_two.xml" value="0.34270833333333334" />
+        <entry key="p0241twoactivitystate/src/main/res/layout/activity_main.xml" value="0.23703703703703705" />
+        <entry key="p0241twoactivitystate/src/main/res/layout/activity_two.xml" value="0.23703703703703705" />
+        <entry key="p0241twoactivitystate/src/main/res/layout/two.xml" value="0.23703703703703705" />
+        <entry key="p0261intentfilter/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0261intentfilter/src/main/res/layout/date.xml" value="0.34270833333333334" />
+        <entry key="p0261intentfilter/src/main/res/layout/time.xml" value="0.34270833333333334" />
+        <entry key="p0271getintentaction/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0271getintentaction/src/main/res/layout/info.xml" value="0.34270833333333334" />
+        <entry key="p0281intentextras/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0281intentextras/src/main/res/layout/view.xml" value="0.34270833333333334" />
+        <entry key="p0291simpleactivityresult/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0291simpleactivityresult/src/main/res/layout/name.xml" value="0.34270833333333334" />
+        <entry key="p0301activityresult/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0301activityresult/src/main/res/layout/aligh.xml" value="0.34270833333333334" />
+        <entry key="p0301activityresult/src/main/res/layout/color.xml" value="0.34270833333333334" />
       </map>
     </option>
   </component>

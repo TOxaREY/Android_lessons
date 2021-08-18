@@ -31,6 +31,13 @@
             <option value="$PROJECT_DIR$/p0191simplecalculator" />
             <option value="$PROJECT_DIR$/p0201simpleanimation" />
             <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0241twoactivitystate" />
+            <option value="$PROJECT_DIR$/p0261intentfilter" />
+            <option value="$PROJECT_DIR$/p0271getintentaction" />
+            <option value="$PROJECT_DIR$/p0281intentextras" />
+            <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
+            <option value="$PROJECT_DIR$/p0301activityresult" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>

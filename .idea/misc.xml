@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="p00371sqliteinnerjoin/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0041basicview/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="p0051layoutfiles/src/main/res/layout-land/myscreen.xml" value="0.34375" />
         <entry key="p0051layoutfiles/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
@@ -45,6 +46,12 @@
         <entry key="p0301activityresult/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0301activityresult/src/main/res/layout/aligh.xml" value="0.34270833333333334" />
         <entry key="p0301activityresult/src/main/res/layout/color.xml" value="0.34270833333333334" />
+        <entry key="p0311simpleintents/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0321simplebrowser/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0321simplebrowser/src/main/res/layout/browser.xml" value="0.34270833333333334" />
+        <entry key="p0331sharedpreferences/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0341simplesqlite/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0361sqlitequary/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
       </map>
     </option>
   </component>

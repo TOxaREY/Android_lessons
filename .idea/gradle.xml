@@ -38,6 +38,12 @@
             <option value="$PROJECT_DIR$/p0281intentextras" />
             <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
             <option value="$PROJECT_DIR$/p0301activityresult" />
+            <option value="$PROJECT_DIR$/p0311simpleintents" />
+            <option value="$PROJECT_DIR$/p0321simplebrowser" />
+            <option value="$PROJECT_DIR$/p0331sharedpreferences" />
+            <option value="$PROJECT_DIR$/p0341simplesqlite" />
+            <option value="$PROJECT_DIR$/p0361sqlitequary" />
+            <option value="$PROJECT_DIR$/p0371sqliteinnerjoin" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>

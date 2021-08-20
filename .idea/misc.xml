@@ -52,6 +52,14 @@
         <entry key="p0331sharedpreferences/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
         <entry key="p0341simplesqlite/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
         <entry key="p0361sqlitequary/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0401layoutinflater/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0401layoutinflater/src/main/res/layout/text.xml" value="0.34270833333333334" />
+        <entry key="p0411layoutinflaterlist/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0411layoutinflaterlist/src/main/res/layout/item.xml" value="0.34270833333333334" />
+        <entry key="p0421simplelist/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0421simplelist/src/main/res/layout/my_list_item.xml" value="0.34270833333333334" />
+        <entry key="p0431simplelistchoice/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0441simplelistevents/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
       </map>
     </option>
   </component>

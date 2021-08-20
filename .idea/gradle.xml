@@ -44,6 +44,13 @@
             <option value="$PROJECT_DIR$/p0341simplesqlite" />
             <option value="$PROJECT_DIR$/p0361sqlitequary" />
             <option value="$PROJECT_DIR$/p0371sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/p0381sqlitetransaction" />
+            <option value="$PROJECT_DIR$/p0391sqliteonupgradedb" />
+            <option value="$PROJECT_DIR$/p0401layoutinflater" />
+            <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/p0421simplelist" />
+            <option value="$PROJECT_DIR$/p0431simplelistchoice" />
+            <option value="$PROJECT_DIR$/p0441simplelistevents" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>

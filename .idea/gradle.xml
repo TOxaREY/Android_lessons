@@ -51,6 +51,18 @@
             <option value="$PROJECT_DIR$/p0421simplelist" />
             <option value="$PROJECT_DIR$/p0431simplelistchoice" />
             <option value="$PROJECT_DIR$/p0441simplelistevents" />
+            <option value="$PROJECT_DIR$/p0451expandablelist" />
+            <option value="$PROJECT_DIR$/p0481simpleadapter" />
+            <option value="$PROJECT_DIR$/p0491simpleadaptercustom1" />
+            <option value="$PROJECT_DIR$/p0501simpleadaptercustom2" />
+            <option value="$PROJECT_DIR$/p0511simpleadapterdata" />
+            <option value="$PROJECT_DIR$/p0521simplecursoradapter" />
+            <option value="$PROJECT_DIR$/p0541customadapter" />
+            <option value="$PROJECT_DIR$/p0551headerfooter" />
+            <option value="$PROJECT_DIR$/p0561spinner" />
+            <option value="$PROJECT_DIR$/p0571gridview" />
+            <option value="$PROJECT_DIR$/p0581timepickerdialog" />
+            <option value="$PROJECT_DIR$/p0591datepickerdialog" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>

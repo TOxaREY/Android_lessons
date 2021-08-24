@@ -79,6 +79,21 @@
         <entry key="p0571gridview/src/main/res/layout/item.xml" value="0.34270833333333334" />
         <entry key="p0581timepickerdialog/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
         <entry key="p0591datepickerdialog/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0601alertdialogsimple/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0611alertdialogprepare/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0621alertdialogitems/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0631alertdialogitemssingle/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0641alertdialogitemsmulti/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0651alertdialogcustom/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0651alertdialogcustom/src/main/res/layout/dialog.xml" value="0.34270833333333334" />
+        <entry key="p0661alertdialogoperations/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0671progressdialog/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="p0681parcel/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0691parcelable/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0701saveinstancestate/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0711preferencessimple/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0721preferencessimple2/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0751files/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
       </map>
     </option>
   </component>

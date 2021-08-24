@@ -63,6 +63,20 @@
             <option value="$PROJECT_DIR$/p0571gridview" />
             <option value="$PROJECT_DIR$/p0581timepickerdialog" />
             <option value="$PROJECT_DIR$/p0591datepickerdialog" />
+            <option value="$PROJECT_DIR$/p0601alertdialogsimple" />
+            <option value="$PROJECT_DIR$/p0611alertdialogprepare" />
+            <option value="$PROJECT_DIR$/p0621alertdialogitems" />
+            <option value="$PROJECT_DIR$/p0631alertdialogitemssingle" />
+            <option value="$PROJECT_DIR$/p0641alertdialogitemsmulti" />
+            <option value="$PROJECT_DIR$/p0651alertdialogcustom" />
+            <option value="$PROJECT_DIR$/p0661alertdialogoperations" />
+            <option value="$PROJECT_DIR$/p0671progressdialog" />
+            <option value="$PROJECT_DIR$/p0681parcel" />
+            <option value="$PROJECT_DIR$/p0691parcelable" />
+            <option value="$PROJECT_DIR$/p0701saveinstancestate" />
+            <option value="$PROJECT_DIR$/p0711preferencessimple" />
+            <option value="$PROJECT_DIR$/p0721preferencessimple2" />
+            <option value="$PROJECT_DIR$/p0751files" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>

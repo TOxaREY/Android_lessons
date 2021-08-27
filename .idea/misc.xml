@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.2046875" />
         <entry key="p00371sqliteinnerjoin/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0041basicview/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="p0051layoutfiles/src/main/res/layout-land/myscreen.xml" value="0.34375" />
@@ -94,6 +95,14 @@
         <entry key="p0711preferencessimple/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0721preferencessimple2/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
         <entry key="p0751files/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0761tab/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0761tab/src/main/res/layout/tab_header.xml" value="0.34270833333333334" />
+        <entry key="p0791xmlpullparser/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0801handler/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0811handlersimplemessage/src/main/res/layout/activity_main.xml" value="0.34270833333333334" />
+        <entry key="p0821handleradvmessage/src/main/res/layout/activity_main.xml" value="0.32864583333333336" />
+        <entry key="p0831handlermessagemanage/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="p0841handlerrunnable/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>

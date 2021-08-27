@@ -77,6 +77,13 @@
             <option value="$PROJECT_DIR$/p0711preferencessimple" />
             <option value="$PROJECT_DIR$/p0721preferencessimple2" />
             <option value="$PROJECT_DIR$/p0751files" />
+            <option value="$PROJECT_DIR$/p0761tab" />
+            <option value="$PROJECT_DIR$/p0791xmlpullparser" />
+            <option value="$PROJECT_DIR$/p0801handler" />
+            <option value="$PROJECT_DIR$/p0811handlersimplemessage" />
+            <option value="$PROJECT_DIR$/p0821handleradvmessage" />
+            <option value="$PROJECT_DIR$/p0831handlermessagemanage" />
+            <option value="$PROJECT_DIR$/p0841handlerrunnable" />
             <option value="$PROJECT_DIR$/p1800constraintlayoutinto" />
           </set>
         </option>
